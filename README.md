@@ -61,5 +61,3 @@
     8.  In the second section create a h1 tag which initially show game will start when player one choose a division. and latter it will show players turn through js.
 
     9.  create a division in which there will be 9 divisions in which players will play by clicking on their turn.
-
-    10. 
